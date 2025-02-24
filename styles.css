@@ -1,6 +1,6 @@
 /* Modern color palette */
 :root {
-  --primary: purple;
+  --primary: rgb(0, 43, 128);
   --primary-dark: #4f46e5;
   --secondary: #f59e0b;
   --secondary-dark: #d97706;
